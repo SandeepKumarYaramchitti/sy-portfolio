@@ -3,51 +3,62 @@
         <div class="container-fluid">
             <nav class="navbar navbar-expand navbar-dark">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" [routerLink]="['/home']" routerLinkActive="active"><i
-               class="d-none d-sm-inline-block fas fa-home mx-1"></i>Home</a>
-                    <a class="nav-item nav-link" [routerLink]="['/portfolio']" routerLinkActive="active"><i
-               class="d-none d-sm-inline-block fas fa-images mx-1"></i>Portfolio</a>
-                    <a class="nav-item nav-link" [routerLink]="['/contact']" routerLinkActive="active"><i
-               class="d-none d-sm-inline-block fas fa-envelope mx-1"></i>Contact</a>
-                </div>
+                    <a class="nav-item nav-link" [routerLink]="['/home']" routerLinkActive="active"><i class="d-none d-sm-inline-block fas fa-home mx-1"></i>Home</a
+          >
+          <a
+            class="nav-item nav-link"
+            [routerLink]="['/portfolio']"
+            routerLinkActive="active"
+            ><i class="d-none d-sm-inline-block fas fa-images mx-1"></i
+            >Portfolio</a
+          >
+          <a
+            class="nav-item nav-link"
+            [routerLink]="['/contact']"
+            routerLinkActive="active"
+            ><i class="d-none d-sm-inline-block fas fa-envelope mx-1"></i
+            >Contact</a
+          >
+        </div>
 
-                <ul class="navbar-nav ml-auto social-icons">
-                    <li class="nav-item">
-                        <a href="https://github.com/SandeepKumarYaramchitti" class="nav-link waves-effect waves-light">
-                            <i class="d-sm-inline-block fab fa-github fa-2x"></i>
-                        </a>
+        <ul class="navbar-nav ml-auto social-icons">
+          <li class="nav-item">
+            <a
+              href="https://github.com/SandeepKumarYaramchitti"
+              class="nav-link waves-effect waves-light"
+            >
+              <i class="d-none d-sm-inline-block fab fa-github"></i>
+            </a>
                     </li>
                     <li class="nav-item">
                         <a href="https://www.instagram.com/sandeep_1117/" class="nav-link waves-effect waves-light">
-                            <i class="d-sm-inline-block fab fa-instagram fa-2x"></i>
+                            <i class="d-none d-sm-inline-block fab fa-instagram"></i>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a href="" class="nav-link waves-effect waves-light">
-                            <i class="d-sm-inline-block fab fa-twitter fa-2x"></i>
+                            <i class="d-none d-sm-inline-block fab fa-twitter"></i>
                         </a>
                     </li>
                     <li class="nav-item">
                         <a href="https://www.facebook.com/ysandeep.kumar.3" class="nav-link waves-effect waves-light">
-                            <i class="d-sm-inline-block fab fa-facebook fa-2x"></i>
+                            <i class="d-none d-sm-inline-block fab fa-facebook"></i>
                         </a>
                     </li>
-                </ul>
-
-
+                    </ul>
             </nav>
-        </div>
-        <div class="header">
-            <div class="container">
-                <h1 style="color: aqua">Sandeep Yaramchitti</h1>
-                <h2 style="color: aqua">this.developer()</h2>
             </div>
+            <div class="header">
+                <div class="container">
+                    <h1 style="color: aqua">Sandeep Yaramchitti</h1>
+                    <h2 style="color: aqua">this.developer()</h2>
+                </div>
+            </div>
+            <main class="main-content container">
+                <router-outlet></router-outlet>
+            </main>
         </div>
-        <main class="main-content container">
-            <router-outlet></router-outlet>
-        </main>
-    </div>
-    <!-- <footer class="footer container">
+        <!-- <footer class="footer container">
         <div class="row">
             <div class="col-12 col-sm-6">
                 <p>Copyright © 2019 Fares Stita</p>
@@ -67,4 +78,4 @@
             </div>
         </div>
     </footer> -->
-</div>
+    </div>
