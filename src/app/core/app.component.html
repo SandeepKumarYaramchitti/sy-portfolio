@@ -3,6 +3,10 @@
         <div class="container-fluid">
             <nav class="navbar navbar-expand navbar-dark">
                 <div class="navbar-nav">
+                    <button class="nav-item nav-link" matTooltipClass="tooltip" [routerLink]="['/home']" routerLinkActive="active" mat-icon-button matTooltip="This is an application built with Angular7, Bootsrap4, MEAN stack and deployed on AWS, Mlabs for Mongo and Heroku for NodeJS API."
+                        matTooltipClass="example-tooltip-red" aria-label="Button that shows a red tooltip when focused or hovered over">
+            <i class="fas fa-bars fa-2x info"></i>
+          </button>
                     <a class="nav-item nav-link" [routerLink]="['/home']" routerLinkActive="active"><i class="d-none d-sm-inline-block fas fa-home mx-1"></i>Home</a
           >
           <a
@@ -48,6 +52,7 @@
                     </ul>
             </nav>
             </div>
+
             <div class="header">
                 <div class="container">
                     <h1 style="color: aqua">Sandeep Yaramchitti</h1>
