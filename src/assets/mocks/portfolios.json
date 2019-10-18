@@ -42,37 +42,30 @@
     },
     {
         "id": 7,
-        "name": "Treeflex",
-        "description": "luctus ultricies eu nibh quisque id justo sit amet sapien",
-        "type": "Angular",
+        "name": "Data Analysis",
+        "description": "Sample code to predict and analyse texts using logistic regression and word cloud..",
+        "type": "Python",
         "preview": "../../../assets/images/App7.jpg"
     },
     {
         "id": 9,
-        "name": "Matsoft",
-        "description": "cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor",
-        "type": "Angular",
+        "name": "BDD Selenium",
+        "description": "Sample scripts for user interfact testing with cucumber and selenium based framework..",
+        "type": "Java",
         "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 10,
-        "name": "Fix San",
-        "description": "in sagittis dui vel nisl duis ac nibh fusce lacus",
-        "type": "Swift",
+        "name": "Protractor BDD",
+        "description": "Sample automation scripts to test angular application using protractor cucumber framework..",
+        "type": "Typescript",
         "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 11,
-        "name": "Y-find",
-        "description": "eget congue eget semper rutrum nulla nunc purus phasellus in",
+        "name": "Auto-layout IOS",
+        "description": "Sample project for each auto layouts using auto constraints, collection view and anchors...",
         "type": "Swift",
-        "preview": "https://fakeimg.pl/650x450/000000/"
-    },
-    {
-        "id": 12,
-        "name": "Lotstring",
-        "description": "vestibulum proin eu mi nulla ac enim in tempor turpis",
-        "type": "Vue",
         "preview": "https://fakeimg.pl/650x450/000000/"
     }
 ]
