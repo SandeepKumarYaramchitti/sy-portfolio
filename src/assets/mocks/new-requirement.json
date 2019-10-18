@@ -1,51 +1,51 @@
 [{
         "id": 1,
-        "name": "Transcof",
-        "description": "sit amet diam in magna bibendum imperdiet nullam orci pede",
-        "type": "Vue",
-        "preview": "../../../assets/images/App1.png"
-    },
-    {
-        "id": 2,
-        "name": "Tampflex",
-        "description": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus",
+        "name": "My Profile",
+        "description": "This is my profile application built with Angular 7, Bootstrap4, Material and uses MEAN stack ",
         "type": "Angular",
-        "preview": "../../../assets/images/App2.png"
+        "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 3,
         "name": "Latlux",
         "description": "urna ut tellus nulla ut erat id mauris vulputate elementum",
         "type": "React",
-        "preview": "../../../assets/images/App3.png"
+        "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 4,
         "name": "Overhold",
         "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et",
         "type": "Angular",
-        "preview": "../../../assets/images/App4.png"
+        "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 5,
         "name": "Daltfresh",
         "description": "blandit mi in porttitor pede justo eu massa donec dapibus",
         "type": "React",
-        "preview": "../../../assets/images/App5.png"
+        "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 6,
         "name": "Pannier",
         "description": "non lectus aliquam sit amet diam in magna bibendum imperdiet",
         "type": "Angular",
-        "preview": "../../../assets/images/App6.png"
+        "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 7,
         "name": "Treeflex",
         "description": "luctus ultricies eu nibh quisque id justo sit amet sapien",
         "type": "Angular",
-        "preview": "../../../assets/images/App7.png"
+        "preview": "https://fakeimg.pl/650x450/000000/"
+    },
+    {
+        "id": 8,
+        "name": "Treeflex",
+        "description": "sit amet sem fusce consequat nulla nisl nunc nisl duis",
+        "type": "Angular",
+        "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 9,
