@@ -1,43 +1,43 @@
 [{
         "id": 1,
-        "name": "Transcof",
-        "description": "sit amet diam in magna bibendum imperdiet nullam orci pede",
-        "type": "Vue",
+        "name": "SY-Portfolio",
+        "description": "App build with MEAN stack and deployed to cloud with AWS, Heroku and Atlas MongoDB..",
+        "type": "Angular",
         "preview": "../../../assets/images/App1.jpg"
     },
     {
         "id": 2,
-        "name": "Tampflex",
-        "description": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus",
+        "name": "Angular7-CRUD",
+        "description": "Single page app build with all the CRUD operations and leverages Angular 7 and build for products..",
         "type": "Angular",
         "preview": "../../../assets/images/App2.jpg"
     },
     {
         "id": 3,
-        "name": "Latlux",
-        "description": "urna ut tellus nulla ut erat id mauris vulputate elementum",
-        "type": "React",
+        "name": "Instagram Clone",
+        "description": "IOS native app designed with Swift with core authonitication, nav bar and camera features..",
+        "type": "Swift",
         "preview": "../../../assets/images/App3.jpg"
     },
     {
         "id": 4,
-        "name": "Overhold",
-        "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et",
-        "type": "Angular",
+        "name": "Lets Wander",
+        "description": "IOS native app built with modern features of IOS, built programatically and it is WIP..",
+        "type": "Swift",
         "preview": "../../../assets/images/App4.jpg"
     },
     {
         "id": 5,
-        "name": "Daltfresh",
-        "description": "blandit mi in porttitor pede justo eu massa donec dapibus",
-        "type": "React",
+        "name": "App Store clone",
+        "description": "IOS native app built with basic features of App store using Itunes API and collection views..",
+        "type": "Swift",
         "preview": "../../../assets/images/App5.jpg"
     },
     {
         "id": 6,
-        "name": "Pannier",
-        "description": "non lectus aliquam sit amet diam in magna bibendum imperdiet",
-        "type": "Angular",
+        "name": "Nodejs api",
+        "description": "NodeJS and expressJS api and leverages MongoDB and serves as backend to my portfolio..",
+        "type": "NodeJS",
         "preview": "../../../assets/images/App6.jpg"
     },
     {
@@ -58,14 +58,14 @@
         "id": 10,
         "name": "Fix San",
         "description": "in sagittis dui vel nisl duis ac nibh fusce lacus",
-        "type": "React",
+        "type": "Swift",
         "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
         "id": 11,
         "name": "Y-find",
         "description": "eget congue eget semper rutrum nulla nunc purus phasellus in",
-        "type": "React",
+        "type": "Swift",
         "preview": "https://fakeimg.pl/650x450/000000/"
     },
     {
