@@ -1,86 +1,81 @@
-[
-  {
-    "id": 1,
-    "name": "Transcof",
-    "description": "sit amet diam in magna bibendum imperdiet nullam orci pede",
-    "type": "Vue",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 2,
-    "name": "Tampflex",
-    "description": "nulla suscipit ligula in lacus curabitur at ipsum ac tellus",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 3,
-    "name": "Latlux",
-    "description": "urna ut tellus nulla ut erat id mauris vulputate elementum",
-    "type": "React",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 4,
-    "name": "Overhold",
-    "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 5,
-    "name": "Daltfresh",
-    "description": "blandit mi in porttitor pede justo eu massa donec dapibus",
-    "type": "React",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 6,
-    "name": "Pannier",
-    "description": "non lectus aliquam sit amet diam in magna bibendum imperdiet",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 7,
-    "name": "Treeflex",
-    "description": "luctus ultricies eu nibh quisque id justo sit amet sapien",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 8,
-    "name": "Treeflex",
-    "description": "sit amet sem fusce consequat nulla nisl nunc nisl duis",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 9,
-    "name": "Matsoft",
-    "description": "cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor",
-    "type": "Angular",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 10,
-    "name": "Fix San",
-    "description": "in sagittis dui vel nisl duis ac nibh fusce lacus",
-    "type": "React",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 11,
-    "name": "Y-find",
-    "description": "eget congue eget semper rutrum nulla nunc purus phasellus in",
-    "type": "React",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  },
-  {
-    "id": 12,
-    "name": "Lotstring",
-    "description": "vestibulum proin eu mi nulla ac enim in tempor turpis",
-    "type": "Vue",
-    "preview": "https://fakeimg.pl/650x450/000000/"
-  }
+[{
+        "id": 1,
+        "name": "SY-Portfolio",
+        "description": "App build with MEAN stack and deployed to cloud with AWS, Heroku and Atlas MongoDB..",
+        "type": "Angular",
+        "preview": "../../../assets/images/App1.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/sy-portfolio.git"
+    },
+    {
+        "id": 2,
+        "name": "Angular7-CRUD",
+        "description": "Single page app build with all the CRUD operations and leverages Angular 7 and build for products..",
+        "type": "Angular",
+        "preview": "../../../assets/images/App2.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Angular7-CRUD.git"
+    },
+    {
+        "id": 3,
+        "name": "Instagram Clone",
+        "description": "IOS native app designed with Swift with core authonitication, nav bar and camera features..",
+        "type": "Swift",
+        "preview": "../../../assets/images/App3.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Instagram-Firebase.git"
+    },
+    {
+        "id": 4,
+        "name": "Lets Wander",
+        "description": "IOS native app built with modern features of IOS, built programatically and it is WIP..",
+        "type": "Swift",
+        "preview": "../../../assets/images/App4.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Happy-Moments.git"
+    },
+    {
+        "id": 5,
+        "name": "App Store clone",
+        "description": "IOS native app built with basic features of App store using Itunes API and collection views..",
+        "type": "Swift",
+        "preview": "../../../assets/images/App5.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Happy-Moments.git"
+    },
+    {
+        "id": 6,
+        "name": "Nodejs api",
+        "description": "NodeJS and expressJS api and leverages MongoDB and serves as backend to my portfolio..",
+        "type": "NodeJS",
+        "preview": "../../../assets/images/App6.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/node-express-mongo-api.git"
+    },
+    {
+        "id": 7,
+        "name": "Data Analysis",
+        "description": "Sample code to predict and analyse texts using logistic regression and word cloud..",
+        "type": "Python",
+        "preview": "../../../assets/images/App7.jpg",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Data-Analytics.git"
+    },
+    {
+        "id": 9,
+        "name": "BDD Selenium",
+        "description": "Sample scripts for user interfact testing with cucumber and selenium based framework..",
+        "type": "Java",
+        "preview": "https://fakeimg.pl/650x450/000000/",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/cucumber-selenium.git"
+    },
+    {
+        "id": 10,
+        "name": "Protractor BDD",
+        "description": "Sample automation scripts to test angular application using protractor cucumber framework..",
+        "type": "Typescript",
+        "preview": "https://fakeimg.pl/650x450/000000/",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Angular-Protractor-Cucumber.git"
+    },
+    {
+        "id": 11,
+        "name": "Auto-layout IOS",
+        "description": "Sample project for each auto layouts using auto constraints, collection view and anchors...",
+        "type": "Swift",
+        "preview": "https://fakeimg.pl/650x450/000000/",
+        "giturl": "https://github.com/SandeepKumarYaramchitti/Easy-Auto-Layout.git"
+    }
 ]
